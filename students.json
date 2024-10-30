@@ -1,0 +1,109 @@
+{
+    "Sheet1":[
+     {
+      "Sl.NO": "1",
+      "Student No": "07230012",
+      "Student name": "Pema",
+      "Course": "DSDA",
+      "Marks": 67
+     },
+     {
+      "Sl.NO": "2",
+      "Student No": "07230013",
+      "Student name": "Choden",
+      "Course": "DSDA",
+      "Marks": 51
+     },
+     {
+      "Sl.NO": "3",
+      "Student No": "07230014",
+      "Student name": "Dorji",
+      "Course": "DCPM",
+      "Marks": 43
+     },
+     {
+      "Sl.NO": "4",
+      "Student No": "07230015",
+      "Student name": "Tshomo",
+      "Course": "EPS",
+      "Marks": 55
+     },
+     {
+      "Sl.NO": "5",
+      "Student No": "07230016",
+      "Student name": "Karma",
+      "Course": "DCPM",
+      "Marks": 62
+     },
+     {
+      "Sl.NO": "6",
+      "Student No": "07230017",
+      "Student name": "Wangmo",
+      "Course": "DSDA",
+      "Marks": 43
+     },
+     {
+      "Sl.NO": "7",
+      "Student No": "07230018",
+      "Student name": "Kinley",
+      "Course": "EPS",
+      "Marks": 57
+     },
+     {
+      "Sl.NO": "8",
+      "Student No": "07230019",
+      "Student name": "zam",
+      "Course": "EPS",
+      "Marks": 52
+     },
+     {
+      "Sl.NO": "9",
+      "Student No": "07230020",
+      "Student name": "Phub",
+      "Course": "DSDA",
+      "Marks": 42
+     },
+     {
+      "Sl.NO": "10",
+      "Student No": "07230021",
+      "Student name": "Dema",
+      "Course": "DCPM",
+      "Marks": 64
+     },
+     {
+      "Sl.NO": "11",
+      "Student No": "07230022",
+      "Student name": "Lhamo",
+      "Course": "EPS",
+      "Marks": 67
+     },
+     {
+      "Sl.NO": "12",
+      "Student No": "07230023",
+      "Student name": "Tashi",
+      "Course": "DSDA",
+      "Marks": 72
+     },
+     {
+      "Sl.NO": "13",
+      "Student No": "07230024",
+      "Student name": "Sonam",
+      "Course": "DSDA",
+      "Marks": 64
+     },
+     {
+      "Sl.NO": "14",
+      "Student No": "07230025",
+      "Student name": "Tenzin",
+      "Course": "DCPM",
+      "Marks": 79
+     },
+     {
+      "Sl.NO": "15",
+      "Student No": "07230026",
+      "Student name": "Sherab",
+      "Course": "DCPM",
+      "Marks": 40
+     }
+    ]
+    }
